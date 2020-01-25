@@ -3,7 +3,6 @@
 %bcond_without	tests		# do not perform "make test"
 #
 %define		pdir	MooX
-%include	/usr/lib/rpm/macros.perl
 Summary:	MooX - Using Moo and MooX:: packages the most lazy way
 Name:		perl-MooX
 Version:	0.101
