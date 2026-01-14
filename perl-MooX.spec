@@ -6,7 +6,7 @@
 Summary:	MooX - Using Moo and MooX:: packages the most lazy way
 Name:		perl-MooX
 Version:	0.101
-Release:	1
+Release:	2
 # same as perl
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
